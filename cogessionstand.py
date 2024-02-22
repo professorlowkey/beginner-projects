@@ -1,4 +1,4 @@
-# Peter Roll Centre
+# Priyam Roll Centre
 
 menu = {"roll": 0.72,
         "eggroll": 0.48,
@@ -9,7 +9,7 @@ menu = {"roll": 0.72,
 
 cart = []
 total = 0
-print("------ PETER ROLL CENTRE ------")
+print("------ PRIYAM ROLL CENTRE ------")
 for key, value in menu.items():
     print(f"{key:18}: ${value:.2f}")
 print("-------------------------------")
